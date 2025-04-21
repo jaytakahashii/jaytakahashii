@@ -86,7 +86,7 @@
 | 5 | NetPractice | A project to learn about network programming. | https://github.com/jaytakahashii/42_NetPractice |
 | 5 | cub3D | A 3D game engine. | https://github.com/jaytakahashii/42_Cub3D |
 | 5 | cpp_module | A C++ module. | https://github.com/jaytakahashii/42_cpp_module |
-| 6 | cpp_module_2 | A C++ module. | https://github.com/jaytakahashii/42_cpp_module_2 |
+| 6 | cpp_module_2 | A C++ module. | coming soon... |
 | 6 | ft_irc | A simple IRC server. | https://github.com/jaytakahashii/42_ft_irc |
 | 6 | inception | A project to learn about network programming. | coming soon... |
 | 7, 8 | ft_transcendence | A project to learn about network programming. | coming soon... |
