@@ -1,112 +1,95 @@
-<p align="left"></p>
-
-###
-
-<h1 align="left">Tech Stack</h1>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vue logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nuxtjs" height="40" alt="nuxtjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&animation=twinkling" />
 </div>
 
-###
-
-<p align="left"></p>
-
-###
-
-<h1 align="left">About me</h1>
-
-###
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=jaytakahashii&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaytakahashii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Jay+%F0%9F%91%8B;42+Paris+Student+%F0%9F%87%AB%F0%9F%87%B7;Aspiring+DevOps+Engineer+%E2%9C%A8;AI+%26+Algorithm+Enthusiast+%F0%9F%A7%A0" alt="Typing SVG" />
 </div>
 
-###
+## 🌟 **About Me**
 
-<h1 align="left">My 42tokyo Projects</h1>
+<div align="center">
 
-###
+<table>
+<tr>
+<td width="200" align="center">
+<img src="https://skillicons.dev/icons?i=linux" width="100" height="100" alt="Linux" />
+<br><strong>DevOps / AI Focus</strong>
+</td>
+<td width="400" align="left">
 
-<p align="center">
-  <img src="./img/curriculum.png" alt="curriculum" width="800" />
-</p>
+### 👋 **Hi, I'm Jay!**
 
+- 🚀 **42 Paris student** specializing in high-performance computing and infrastructure.
+- 🌍 **Location:** Paris, France 🇫🇷 (Born in Japan 🇯🇵)
+- 🗣️ **Languages:** Japanese (Native), English
+- 💼 **Current Goal:** Securing a Software Engineer / DevOps Internship
+- ⚽ **Interests:** Football and Culinary Arts (Cooking)
 
-| lank | project name | description | repo link |
-| ---- | ------------ | ----------- | --------- |
-| 1 | Libft | The C standard library, implemented from scratch. | https://github.com/jaytakahashii/42_libft |
-| 2 | ft_printf | Reimplementation of printf function. | https://github.com/jaytakahashii/42_ftPrintf |
-| 2 | get_next_line | Implementing a function to read the next line. | https://github.com/jaytakahashii/42_GetNextLine |
-| 2 | Born2beroot | Build Linux in a virtual environment. | https://github.com/jaytakahashii/42_Born2beRoot |
-| 3 | push_swap | Sort a stack of integers with the fewest moves. | https://github.com/jaytakahashii/42_PushSwap |
-| 3 | so_long | A simple game using the MLX library. | https://github.com/jaytakahashii/42_soLong |
-| 3 | minitalk | A simple shell implementation. | https://github.com/jaytakahashii/42_minitalk |
-| 4 | minishell | A simple shell implementation. | https://github.com/jaytakahashii/42_minishell |
-| 4 | Philosophers | A simulation of the dining philosophers problem. | https://github.com/jaytakahashii/42_Philosophers |
-| 5 | NetPractice | A project to learn about network programming. | https://github.com/jaytakahashii/42_NetPractice |
-| 5 | cub3D | A 3D game engine. | https://github.com/jaytakahashii/42_Cub3D |
-| 5 | cpp_module | A C++ module. | https://github.com/jaytakahashii/42_cpp_module |
-| 6 | cpp_module_2 | A C++ module. | coming soon... |
-| 6 | ft_irc | A simple IRC server. | https://github.com/jaytakahashii/42_ft_irc |
-| 6 | inception | A project to learn about network programming. | coming soon... |
-| 7, 8 | ft_transcendence | A project to learn about network programming. | coming soon... |
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jay-takahashi) </td>
 
-###
+</tr>
+</table>
 
-<h1 align="left">Social Media</h1>
+</div>
 
-###
+## 🛠️ **Tech Stack & Expertise**
 
-<div align="left">
-  <a href="https://x.com/Jay_42Tokyo" target="_blank" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="X (Twitter) logo" />
-  </a>
-  <img width="12" />
-  <a href="https://note.com/jay_42tokyo" target="_blank" style="text-decoration:none;">
-    <img src="https://note.com/favicon.ico" height="40" alt="Note logo" />
-  </a>
-  <img width="12" />
-  <a href="https://qiita.com/jay_42tokyo" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Qiita-55C500?style=flat" height="40" alt="Qiita badge" />
-  </a>
+<table align="center">
+<tr>
+<td width="50%" align="center" valign="top">
+
+### ☁️ **DevOps**
+
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github" />
+
+### 🤖 **AI & Algorithm**
+
+<img src="https://skillicons.dev/icons?i=py,tensorflow,cpp" />
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### 💻 **Full-stack Web Dev**
+
+<img src="https://skillicons.dev/icons?i=ts,vue,nuxtjs,postgres,supabase" />
+
+### 🔧 **Tools / Design**
+
+<img src="https://skillicons.dev/icons?i=figma,tailwind,nginx" />
+
+</td>
+</tr>
+</table>
+
+## 🚀 **Advanced Projects (42 Paris)**
+
+Selected projects focusing on AI, Data Science, and complex algorithms.
+
+| Project          | Description                                                            | Tech Stack              |
+| :--------------- | :--------------------------------------------------------------------- | :---------------------- |
+| **Gomoku**       | AI for Gomoku using Min-Max and Alpha-Beta pruning algorithms.         | C++ (17) / Algorithm    |
+| **Leaffliction** | Deep learning model for plant disease classification.                  | Python, TensorFlow, CNN |
+| **dslr**         | Implementing Logistic Regression from scratch for data classification. | Python, NumPy           |
+
+## 🏆 **Common Core Curriculum (42 Tokyo)**
+
+I have successfully completed the entire 42 Common Core curriculum.
+
+| Rank | Project              | Key Focus                                               | Tech Stack                        |
+| :--- | :------------------- | :------------------------------------------------------ | :-------------------------------- |
+| 7,8  | **ft_transcendence** | Full-stack web application with real-time gameplay.     | Node, TS, SQLite, Prisma, Fastify |
+| 6    | **Inception**        | Orchestrating a microservices architecture with Docker. | Docker, Nginx, MariaDB            |
+| 6    | **ft_irc**           | Development of an RFC-compliant IRC server.             | C++ (98)                          |
+| 4    | **Minishell**        | Building a Unix-like shell from scratch.                | C, Bash                           |
+| 4    | **Philosophers**     | Solving synchronization issues (Threads / Mutex).       | C, Multithreading                 |
+
+## 📊 **GitHub Activity**
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaytakahashii&custom_title=Activity+Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" />
 </div>
