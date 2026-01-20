@@ -66,23 +66,23 @@
 
 Selected projects focusing on AI, Data Science, and complex algorithms.
 
-| Project          | Description                                                            | Tech Stack              |
-| :--------------- | :--------------------------------------------------------------------- | :---------------------- |
-| **Gomoku**       | AI for Gomoku using Min-Max and Alpha-Beta pruning algorithms.         | C++ (17) / Algorithm    |
-| **Leaffliction** | Deep learning model for plant disease classification.                  | Python, TensorFlow, CNN |
-| **dslr**         | Implementing Logistic Regression from scratch for data classification. | Python, NumPy           |
+| Project                                                              | Description                                                            | Tech Stack              |
+| :------------------------------------------------------------------- | :--------------------------------------------------------------------- | :---------------------- |
+| [**Gomoku**](https://github.com/jaytakahashii/42_Gomoku)             | AI for Gomoku using Min-Max and Alpha-Beta pruning algorithms.         | C++ (17) / Algorithm    |
+| [**Leaffliction**](https://github.com/jaytakahashii/42_Leaffliction) | Deep learning model for plant disease classification.                  | Python, TensorFlow, CNN |
+| [**dslr**](https://github.com/kojilbj/dslr)                          | Implementing Logistic Regression from scratch for data classification. | Python, NumPy           |
 
 ## 🏆 **Common Core Curriculum (42 Tokyo)**
 
 I have successfully completed the entire 42 Common Core curriculum.
 
-| Rank | Project              | Key Focus                                               | Tech Stack                        |
-| :--- | :------------------- | :------------------------------------------------------ | :-------------------------------- |
-| 7,8  | **ft_transcendence** | Full-stack web application with real-time gameplay.     | Node, TS, SQLite, Prisma, Fastify |
-| 6    | **Inception**        | Orchestrating a microservices architecture with Docker. | Docker, Nginx, MariaDB            |
-| 6    | **ft_irc**           | Development of an RFC-compliant IRC server.             | C++ (98)                          |
-| 4    | **Minishell**        | Building a Unix-like shell from scratch.                | C, Bash                           |
-| 4    | **Philosophers**     | Solving synchronization issues (Threads / Mutex).       | C, Multithreading                 |
+| Rank | Project                                                                   | Key Focus                                               | Tech Stack                        |
+| :--- | :------------------------------------------------------------------------ | :------------------------------------------------------ | :-------------------------------- |
+| 7,8  | [**ft_transcendence**](https://github.com/jaytakahashii/ft_transcendence) | Full-stack web application with real-time gameplay.     | Node, TS, SQLite, Prisma, Fastify |
+| 6    | [**Inception**](https://github.com/jaytakahashii/42_Inception)            | Orchestrating a microservices architecture with Docker. | Docker, Nginx, MariaDB            |
+| 6    | [**ft_irc**](https://github.com/jaytakahashii/42_ft_irc)                  | Development of an RFC-compliant IRC server.             | C++ (98)                          |
+| 4    | [**Minishell**](https://github.com/jaytakahashii/42_minishell)            | Building a Unix-like shell from scratch.                | C, Bash                           |
+| 4    | [**Philosophers**](https://github.com/jaytakahashii/42_Philosophers)      | Solving synchronization issues (Threads / Mutex).       | C, Multithreading                 |
 
 ## 📊 **GitHub Activity**
 
