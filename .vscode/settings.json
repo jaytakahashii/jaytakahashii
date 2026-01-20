@@ -1,7 +1,15 @@
 {
   "cSpell.words": [
     "beroot",
+    "dslr",
+    "Epoll",
+    "Fastify",
+    "Gomoku",
+    "Leaffliction",
+    "Matplotlib",
     "minishell",
-    "minitalk"
+    "minitalk",
+    "pthreads",
+    "Zobrist"
   ]
 }

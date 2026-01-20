@@ -13,18 +13,19 @@
 <table>
 <tr>
 <td width="200" align="center">
-<img src="https://skillicons.dev/icons?i=linux" width="100" height="100" alt="Linux" />
+<img src="https://skillicons.dev/icons?i=linux" width="80" height="80" alt="Linux" />
 <br><strong>DevOps / AI Focus</strong>
 </td>
 <td width="400" align="left">
 
 ### 👋 **Hi, I'm Jay!**
 
-- 🚀 **42 Paris student** specializing in high-performance computing and infrastructure.
+- 🚀 **42 Paris student** specializing in High-Performance Computing, Infrastructure, and Full-Stack Development.
 - 🌍 **Location:** Paris, France 🇫🇷 (Born in Japan 🇯🇵)
 - 🗣️ **Languages:** Japanese (Native), English
 - 💼 **Current Goal:** Securing a Software Engineer / DevOps Internship
-- ⚽ **Interests:** Football and Culinary Arts (Cooking)
+- ⚽ **Interests:** Football and Cooking
+- 📄 **Experience:** Check my full professional background on LinkedIn below.
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jay-takahashi) </td>
 
@@ -43,7 +44,7 @@
 
 <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github" />
 
-### 🤖 **AI & Algorithm**
+### 🤖 **AI & Algorithms**
 
 <img src="https://skillicons.dev/icons?i=py,tensorflow,cpp" />
 
@@ -66,23 +67,23 @@
 
 Selected projects focusing on AI, Data Science, and complex algorithms.
 
-| Project          | Description                                                            | Tech Stack              |
-| :--------------- | :--------------------------------------------------------------------- | :---------------------- |
-| **Gomoku**       | AI for Gomoku using Min-Max and Alpha-Beta pruning algorithms.         | C++ (17) / Algorithm    |
-| **Leaffliction** | Deep learning model for plant disease classification.                  | Python, TensorFlow, CNN |
-| **dslr**         | Implementing Logistic Regression from scratch for data classification. | Python, NumPy           |
+| Project                                                              | Description                                                                                                             | Tech Stack                            |
+| :------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------- | :------------------------------------ |
+| [**Gomoku**](https://github.com/jaytakahashii/42_Gomoku)             | High-performance AI engine. Features BitBoards, Iterative Deepening, PVS, and Zobrist Hashing for optimized search.     | C++ (17), Algorithm, Heuristics       |
+| [**Leaffliction**](https://github.com/jaytakahashii/42_Leaffliction) | CNN-based classifier for plant pathologies. Implements data augmentation and hyperparameter tuning for high accuracy.   | Python, TensorFlow, CNN, Pandas       |
+| [**dslr**](https://github.com/kojilbj/dslr)                          | Data science toolkit built from scratch. Implements Logistic Regression using Gradient Descent and One-vs-All strategy. | Python, NumPy, Matplotlib, Statistics |
 
 ## 🏆 **Common Core Curriculum (42 Tokyo)**
 
-I have successfully completed the entire 42 Common Core curriculum.
+Completed the entire curriculum with a focus on system programming and network architecture.
 
-| Rank | Project              | Key Focus                                               | Tech Stack                        |
-| :--- | :------------------- | :------------------------------------------------------ | :-------------------------------- |
-| 7,8  | **ft_transcendence** | Full-stack web application with real-time gameplay.     | Node, TS, SQLite, Prisma, Fastify |
-| 6    | **Inception**        | Orchestrating a microservices architecture with Docker. | Docker, Nginx, MariaDB            |
-| 6    | **ft_irc**           | Development of an RFC-compliant IRC server.             | C++ (98)                          |
-| 4    | **Minishell**        | Building a Unix-like shell from scratch.                | C, Bash                           |
-| 4    | **Philosophers**     | Solving synchronization issues (Threads / Mutex).       | C, Multithreading                 |
+| Project                                                                   | Description                                                                                                                        | Tech Stack                                           |
+| :------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------- |
+| [**ft_transcendence**](https://github.com/jaytakahashii/ft_transcendence) | Single Page Application (SPA) for Pong. Features real-time multiplayer via WebSockets, OAuth2, and chat integration.               | TS, Fastify, Docker, Socket.io, OAuth2, Prisma       |
+| [**Inception**](https://github.com/jaytakahashii/42_Inception)            | System administration infrastructure. Orchestrates Docker containers (Nginx, MariaDB, WordPress) using Docker Compose and volumes. | Docker Compose, Bash, TLS/SSL, Virtualization, Nginx |
+| [**ft_irc**](https://github.com/jaytakahashii/42_ft_irc)                  | Asynchronous IRC server. Handles multiple clients via non-blocking I/O and polling with strict RFC compliance.                     | C++, TCP/IP, Socket Programming, Poll/Epoll          |
+| [**Minishell**](https://github.com/jaytakahashii/42_minishell)            | Minimalist Bash implementation. Features custom lexical analysis, process tree management, pipes, and signal handling.             | C, Process Management, Signal Handling, Parsers      |
+| [**Philosophers**](https://github.com/jaytakahashii/42_Philosophers)      | Concurrency simulation of the Dining Philosophers problem. Utilizes mutexes to prevent deadlocks and race conditions.              | C, Pthreads, Mutex, Deadlock Prevention              |
 
 ## 📊 **GitHub Activity**
 
