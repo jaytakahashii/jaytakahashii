@@ -20,11 +20,11 @@
 
 ### 👋 **Hi, I'm Jay!**
 
-- 🚀 **42 Paris student** specializing in high-performance computing and infrastructure.
+- 🚀 **42 Paris student** specializing in High-Performance Computing, Infrastructure, and Full-Stack Development.
 - 🌍 **Location:** Paris, France 🇫🇷 (Born in Japan 🇯🇵)
 - 🗣️ **Languages:** Japanese (Native), English
 - 💼 **Current Goal:** Securing a Software Engineer / DevOps Internship
-- ⚽ **Interests:** Football and Culinary Arts (Cooking)
+- ⚽ **Interests:** Football and Cooking
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jay-takahashi) </td>
 
@@ -43,7 +43,7 @@
 
 <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github" />
 
-### 🤖 **AI & Algorithm**
+### 🤖 **AI & Algorithms**
 
 <img src="https://skillicons.dev/icons?i=py,tensorflow,cpp" />
 
