@@ -66,11 +66,11 @@
 
 Selected projects focusing on AI, Data Science, and complex algorithms.
 
-| Project                                                              | Description                                                            | Tech Stack              |
-| :------------------------------------------------------------------- | :--------------------------------------------------------------------- | :---------------------- |
-| [**Gomoku**](https://github.com/jaytakahashii/42_Gomoku)             | AI for Gomoku using Min-Max and Alpha-Beta pruning algorithms.         | C++ (17) / Algorithm    |
-| [**Leaffliction**](https://github.com/jaytakahashii/42_Leaffliction) | Deep learning model for plant disease classification.                  | Python, TensorFlow, CNN |
-| [**dslr**](https://github.com/kojilbj/dslr)                          | Implementing Logistic Regression from scratch for data classification. | Python, NumPy           |
+| Project                                                              | Description                                                                                                         | Tech Stack              |
+| :------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------ | :---------------------- |
+| [**Gomoku**](https://github.com/jaytakahashii/42_Gomoku)             | High-performance AI engine. Features BitBoards, Iterative Deepening, PVS, and Zobrist Hashing for optimized search. | C++ (17) / Algorithm    |
+| [**Leaffliction**](https://github.com/jaytakahashii/42_Leaffliction) | Deep learning model for plant disease classification.                                                               | Python, TensorFlow, CNN |
+| [**dslr**](https://github.com/kojilbj/dslr)                          | Implementing Logistic Regression from scratch for data classification.                                              | Python, NumPy           |
 
 ## 🏆 **Common Core Curriculum (42 Tokyo)**
 
