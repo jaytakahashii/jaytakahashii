@@ -20,12 +20,12 @@
 
 ### 👋 **Hi, I'm Jay!**
 
-- 🚀 **42 Paris student** specializing in High-Performance Computing, Infrastructure, and Full-Stack Development.
+- 🚀 **42 Paris student** specializing in Systems Infrastructure (DevOps), Cloud Automation, and Machine Learning.
 - 🌍 **Location:** Paris, France 🇫🇷 (Born in Japan 🇯🇵)
-- 🗣️ **Languages:** Japanese (Native), English
-- 💼 **Current Goal:** Securing a Software Engineer / DevOps Internship
+- 🗣️ **Languages:** English (Professional Working Proficiency), Japanese (Native)
+- 💼 **Current Goal:** Seeking a 6-month DevOps / Cloud Engineering Internship in an English-speaking team
 - ⚽ **Interests:** Football and Cooking
-- 📄 **Experience:** Check my full professional background on LinkedIn below.
+- 📄 **Experience:** Check out my full professional background on LinkedIn below.
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jay-takahashi) </td>
 
@@ -40,7 +40,7 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
-### ☁️ **DevOps**
+### ☁️ **DevOps & Infrastructure**
 
 <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,linux,git,github" />
 
@@ -55,7 +55,7 @@
 
 <img src="https://skillicons.dev/icons?i=ts,vue,nuxtjs,postgres,supabase" />
 
-### 🔧 **Tools / Design**
+### 🔧 **Tools & Deployment**
 
 <img src="https://skillicons.dev/icons?i=figma,tailwind,nginx" />
 
@@ -65,7 +65,7 @@
 
 ## 🚀 **Advanced Projects (42 Paris)**
 
-Selected projects focusing on AI, Data Science, and complex algorithms.
+Selected projects focusing on AI, Cloud Infrastructure, and complex algorithms.
 
 | Project                                                                            | Description                                                                                                             | Tech Stack                                  |
 | :--------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------- | :------------------------------------------ |
