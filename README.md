@@ -42,7 +42,7 @@
 
 ### ☁️ **DevOps**
 
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github" />
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,linux,git,github" />
 
 ### 🤖 **AI & Algorithms**
 
@@ -67,11 +67,12 @@
 
 Selected projects focusing on AI, Data Science, and complex algorithms.
 
-| Project                                                              | Description                                                                                                             | Tech Stack                            |
-| :------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------- | :------------------------------------ |
-| [**Gomoku**](https://github.com/jaytakahashii/42_Gomoku)             | High-performance AI engine. Features BitBoards, Iterative Deepening, PVS, and Zobrist Hashing for optimized search.     | C++ (17), Algorithm, Heuristics       |
-| [**Leaffliction**](https://github.com/jaytakahashii/42_Leaffliction) | CNN-based classifier for plant pathologies. Implements data augmentation and hyperparameter tuning for high accuracy.   | Python, TensorFlow, CNN, Pandas       |
-| [**dslr**](https://github.com/kojilbj/dslr)                          | Data science toolkit built from scratch. Implements Logistic Regression using Gradient Descent and One-vs-All strategy. | Python, NumPy, Matplotlib, Statistics |
+| Project                                                                            | Description                                                                                                             | Tech Stack                                  |
+| :--------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------- | :------------------------------------------ |
+| [**Inception-of-Things**](https://github.com/jaytakahashii/42_Inception-of-Things) | A hands-on introduction to Kubernetes. Focuses on cluster deployment, container orchestration, and GitOps practices.    | Kubernetes, K3s, k3d, Vagrant, ArgoCD, Helm |
+| [**Gomoku**](https://github.com/jaytakahashii/42_Gomoku)                           | High-performance AI engine. Features BitBoards, Iterative Deepening, PVS, and Zobrist Hashing for optimized search.     | C++ (17), Algorithm, Heuristics             |
+| [**Leaffliction**](https://github.com/jaytakahashii/42_Leaffliction)               | CNN-based classifier for plant pathologies. Implements data augmentation and hyperparameter tuning for high accuracy.   | Python, TensorFlow, CNN, Pandas             |
+| [**dslr**](https://github.com/kojilbj/dslr)                                        | Data science toolkit built from scratch. Implements Logistic Regression using Gradient Descent and One-vs-All strategy. | Python, NumPy, Matplotlib, Statistics       |
 
 ## 🏆 **Common Core Curriculum (42 Tokyo)**
 
